@@ -6,17 +6,17 @@
     <description>Recent content in Posts on Brewed and Managed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 19:46:29 -0500</lastBuildDate><atom:link href="https://retsak.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 19:57:25 -0500</lastBuildDate><atom:link href="https://retsak.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://retsak.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 18 May 2025 19:46:29 -0500</pubDate>
+      <title>Interview Questions for EUC Engineer May 2025 Update</title>
+      <link>https://retsak.github.io/posts/interview-questions-for-euc-engineer-may-2025-update/</link>
+      <pubDate>Sun, 18 May 2025 19:57:25 -0500</pubDate>
       
-      <guid>https://retsak.github.io/posts/my-first-post/</guid>
+      <guid>https://retsak.github.io/posts/interview-questions-for-euc-engineer-may-2025-update/</guid>
       
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://retsak.github.io/engineerfix.png&#34; alt=&#34;Engineer&#34; title=&#34;Engineer&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The role of an End-User Computing (EUC) Engineer has evolved significantly in the past year. Traditionally, an EUC Engineer manages endpoint devices, provides technical support, ensures security compliance, and collaborates with IT teams for optimal performance. However, as of May 2025, the EUC landscape is rapidly changing. New technologies and practices – from AI-powered assistants to cloud-based desktops – are reshaping how EUC engineers work. This updated guide (&lt;a href=&#34;https://www.brewedandmanaged.com/2024/12/interview-questions-for-euc-engineer.html&#34;&gt;originally published in December 2024&lt;/a&gt;) revisits common interview questions for EUC engineer candidates and modernizes them to reflect current trends. We will incorporate key pillars of 2025’s IT environment, including Microsoft Copilot, Microsoft Cloud PC, agentic AI, Zero Trust security, Unified Endpoint Management (UEM), and automation-driven management. Whether you’re an interviewer or a candidate, these updated insights and questions will help you focus on the skills and knowledge that matter most in EUC today.&lt;/p&gt;</description>
       
     </item>
     
